@@ -8,5 +8,6 @@ public class ConstructorExample {
 	public static void main(String[] args) {
 		ConstructorExample ce= new ConstructorExample();
 		System.out.println("It is main Method");
+		System.out.println("It is another user");
 	}
 }
